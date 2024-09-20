@@ -28,7 +28,7 @@ m = Message(
     body=HTMLBody('''
     <html>
         <body style="font-family:Segoe UI; color:#228B99">
-            <p>Good Morning Sara,</p>
+            <p>Good Morning,</p>
             <p>Kindly find <function name> manpower report for today {today}.</p>
             <p>Regards,</p>
         </body>
